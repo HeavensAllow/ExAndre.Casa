@@ -1,0 +1,7 @@
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\bin\Debug\ExAndre.exe.config
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\bin\Debug\ExAndre.exe
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\bin\Debug\ExAndre.pdb
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.csprojResolveAssemblyReference.cache
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.csproj.CoreCompileInputs.cache
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.exe
+C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.pdb
