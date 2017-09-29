@@ -5,3 +5,9 @@ C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.csprojResolveAss
 C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.csproj.CoreCompileInputs.cache
 C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.exe
 C:\Users\Marinho\source\repos\ExAndre\ExAndre\obj\Debug\ExAndre.pdb
+C:\Users\altar15\Documents\GitHub\ExAndre.Casa\ExAndre\ExAndre\obj\Debug\ExAndre.csprojResolveAssemblyReference.cache
+C:\Users\altar15\Documents\GitHub\ExAndre.Casa\ExAndre\ExAndre\obj\Debug\ExAndre.exe
+C:\Users\altar15\Documents\GitHub\ExAndre.Casa\ExAndre\ExAndre\obj\Debug\ExAndre.pdb
+C:\Users\altar15\Documents\GitHub\ExAndre.Casa\ExAndre\ExAndre\bin\Debug\ExAndre.exe.config
+C:\Users\altar15\Documents\GitHub\ExAndre.Casa\ExAndre\ExAndre\bin\Debug\ExAndre.exe
+C:\Users\altar15\Documents\GitHub\ExAndre.Casa\ExAndre\ExAndre\bin\Debug\ExAndre.pdb

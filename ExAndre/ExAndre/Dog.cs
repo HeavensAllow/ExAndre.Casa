@@ -8,15 +8,20 @@ namespace ExAndre
 {
     class Dog : Pet
     {
-        string race;
-        string petname;
+        private string race;
 
-        public Dog(string race, int age, int fatigue, string petname)
+            public Dog(string classification, int age, string name, string race) : base(classification, age, name)
         {
             this.race = race;
-            this.age = age;
-            this.fatigue = fatigue;
-            this.petname = petname;
         }
+
+        //public Dog(string race, int age, int fatigue, string petname, Human humano)
+        //{
+        //    this.race = race;
+        //    this.age = age;
+        //    this.fatigue = fatigue;
+        //    this.petname = petname;
+        //    Human owner = humano;
+        //}
     }
 }
